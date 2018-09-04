@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">weidu</string>
+    <string name="homepage">首页</string>
+    <string name="movie">电影</string>
+    <string name="cinemapage">影院</string>
+    <string name="membershippage">会员</string>
+    <string name="settingpage">设置</string>
+
+</resources>

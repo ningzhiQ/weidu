@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="70dp"
+        android:src="@drawable/round"/>
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        android:layout_marginLeft="17dp"
+        android:layout_marginTop="30dp"
+        android:text="维度"/>
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:layout_marginLeft="13dp"
+        android:text="版本V2.0"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:text="维度影院是八维旗下的一家媒体内容,在线购片"/>
+</LinearLayout>
